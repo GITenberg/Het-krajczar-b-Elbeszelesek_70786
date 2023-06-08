@@ -1,0 +1,37 @@
+_repo: Het-krajczar-b-Elbeszelesek_70786
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2023-05-17'
+identifiers:
+  gutenberg: '70786'
+language: hu
+pgterms:marc905: 20230510103333mricz
+pgterms:marc906: '1909'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aHungary :$bNyugat, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Hét krajczár -- Márkus -- Himes tojások -- Magyarosan -- Aranyos
+  öregek -- Csipkés Komárominé -- Sustorgós, ropogós tafotába -- A czicza, meg a macska
+  -- Bent a kupéban -- A kokas -- A nagy fundus -- Judith és Eszter.
+title: 'Hét krajczár : $b Elbeszélések'
+url: http://www.gutenberg.org/ebooks/70786
